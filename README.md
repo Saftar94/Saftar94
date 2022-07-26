@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<div  display: flex;>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Saftar</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Front-End Developer</h3>
@@ -7,7 +8,7 @@
 
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="400px" height="200px"/></h1>
-
+</div>
 <!--
 **Saftar94/Saftar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
