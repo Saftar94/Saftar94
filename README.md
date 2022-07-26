@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="200px" height="100px"/></h1>
+<img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="600px" height="100px"/></h1>
 
 <!--
 **Saftar94/Saftar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
