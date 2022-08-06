@@ -6,8 +6,6 @@
 
 <p font-size="20">Welcome to my page!</p>
 <p>I'm Front-End Developer from  Kharkiv, Ukraine</p> 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-kostiuchenko/)
-[![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine")]
 <p>currently living in  Stockholm, Sweden.</p>
 
 
