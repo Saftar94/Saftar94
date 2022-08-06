@@ -6,7 +6,7 @@
 
 <p font-size="20">Welcome to my page!</p>
 <p>I'm Front-End Developer from  Kharkiv, Ukraine</p> 
-![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada")
+![Canada](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ca.png "Canada"),
 <p>currently living in  Stockholm, Sweden.</p>
 
 
