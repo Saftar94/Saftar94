@@ -5,7 +5,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p font-size="20">Welcome to my page!</p>
-<p>I'm Front-End Developer from  Kharkiv, Ukraine <Flag country="US" />, currently living in  Stockholm, Sweden.</p>
+<p>I'm Front-End Developer from  Kharkiv, Ukraine <span class="flag-icon flag-icon-sun flag-icon-squared"></span>, currently living in  Stockholm, Sweden.</p>
 
 
 
