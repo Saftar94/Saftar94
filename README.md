@@ -9,7 +9,7 @@
 <p>currently living in  Stockholm, Sweden.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-aliev.saftar94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliev.saftar94@gmail.com)](mailto:aliev.saftar94@gmail.com) 
 
 
 
