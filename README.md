@@ -39,3 +39,16 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
+  
+  
+  <h2>:label: Github Stats</h2>
+
+<div>
+    <a href="#"><img alt="IntelligentQuantum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntelligentQuantum&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IntelligentQuantum&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="IntelligentQuantum's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=IntelligentQuantum&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="IntelligentQuantum's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=intelligentquantum&custom_title=IntelligentQuantum's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" height="200px" /></a>
+</div>
