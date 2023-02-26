@@ -11,6 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SaftarAliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/saftar-aliev-8a8ab1229/](https://www.linkedin.com/in/saftar-aliev-8a8ab1229/))](https://www.linkedin.com/in/saftar-aliev-8a8ab1229/)
 [![Gmail Badge](https://img.shields.io/badge/-aliev.saftar94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliev.saftar94@gmail.com)](mailto:aliev.saftar94@gmail.com) 
 
+- 🎯 Portfolio website: [Portfolio](https://www.google.com/?client=safari)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 
 
