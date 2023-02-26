@@ -8,7 +8,7 @@
 <p>I'm Front-End Developer from  Kharkiv, Ukraine</p> 
 <p>currently living in  Stockholm, Sweden.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Linkedin Badge](https://img.shields.io/badge/-SaftarAliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/saftar-aliev-8a8ab1229/](https://www.linkedin.com/in/saftar-aliev-8a8ab1229/))](https://www.linkedin.com/in/saftar-aliev-8a8ab1229/)
 [![Gmail Badge](https://img.shields.io/badge/-aliev.saftar94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliev.saftar94@gmail.com)](mailto:aliev.saftar94@gmail.com) 
 
 
