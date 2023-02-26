@@ -14,6 +14,8 @@
 - 🎯 Portfolio website: [Portfolio](https://www.google.com/?client=safari)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
+---
+
 
 
 
